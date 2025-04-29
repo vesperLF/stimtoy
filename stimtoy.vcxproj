@@ -131,6 +131,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cxx" />
     <ClCompile Include="stimtoy.cxx" />
   </ItemGroup>
   <ItemGroup>
